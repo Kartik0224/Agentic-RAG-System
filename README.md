@@ -13,7 +13,7 @@
 ![Agentic RAG](./Images/agentic-rag.png)
 
 
-An <strong>Agentic Retrieval-Augmented Generation (RAG)</strong> system built with LangChain, LangGraph & Google's Gemini LLM. This system implements advanced multi-agent workflows for intelligent question answering with adaptive reasoning strategies.
+<strong>Agentic <strongt>RAG system that combines LLMs with a multi-agent architecture for accurate, context-aware responses. The system orchestrates planning, semantic retrieval from a vector database, conditional web search, and response synthesis, followed by a validation layer to ensure quality and reliability.Includes an end-to-end document ingestion pipeline (chunking, embeddings, vector storage) enabling scalable and efficient knowledge retrieval. Demonstrates strong expertise in Agentic AI, LLM orchestration, retrieval systems, and production-ready GenAI design.
 
 ## 📁 File Overview
 
