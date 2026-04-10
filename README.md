@@ -10,8 +10,8 @@
 ![ChromaDB](https://img.shields.io/badge/Chroma-Vector_DB-9b59b6)
 
 
-![Agentic RAG]
-(./Architecture Images /agentic-rag.png)
+![Agentic RAG](./Images/agentic-rag.png)
+
 
 An <strong>Agentic Retrieval-Augmented Generation (RAG)</strong> system built with LangChain, LangGraph & Google's Gemini LLM. This system implements advanced multi-agent workflows for intelligent question answering with adaptive reasoning strategies.
 
