@@ -211,7 +211,7 @@ The web interface is organized into **5 intuitive tabs**:
 
 ## 🏗️ System Process Flow
 
-![system process flow](./images/agentic-graph-system-architecture.png)
+![system process flow](./Images/agentic-graph-system-architecture.png)
 
 ## 📊 Query Processing Flow
 
